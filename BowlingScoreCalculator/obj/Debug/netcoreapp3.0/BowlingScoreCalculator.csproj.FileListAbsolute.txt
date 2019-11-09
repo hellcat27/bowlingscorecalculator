@@ -1,0 +1,11 @@
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.0\BowlingScoreCalculator.exe
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.0\BowlingScoreCalculator.deps.json
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.0\BowlingScoreCalculator.runtimeconfig.json
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.0\BowlingScoreCalculator.runtimeconfig.dev.json
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.0\BowlingScoreCalculator.dll
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\bin\Debug\netcoreapp3.0\BowlingScoreCalculator.pdb
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.0\BowlingScoreCalculator.csprojAssemblyReference.cache
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.0\BowlingScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.0\BowlingScoreCalculator.AssemblyInfo.cs
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.0\BowlingScoreCalculator.dll
+C:\Users\ALUMINIUMFALCON\Desktop\bowlingscorecalculator\BowlingScoreCalculator\obj\Debug\netcoreapp3.0\BowlingScoreCalculator.pdb
